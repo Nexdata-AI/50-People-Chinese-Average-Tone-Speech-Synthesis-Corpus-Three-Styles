@@ -1,0 +1,29 @@
+# 50-People-Chinese-Average-Tone-Speech-Synthesis-Corpus-Three-Styles
+https://www.datatang.ai/datasets/1144
+
+## Description
+50 People - Chinese Average Tone Speech Synthesis Corpus-Three Styles.It is recorded by Chinese native speakers. Corpus includes cunstomer service,news and story. The syllables, phonemes and tones are balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
+
+## Format
+48,000Hz, 16bit, uncompressed wav, mono channel;
+
+## Recording environment
+professional recording studio;
+
+## Recording content
+Corpus content includes customer service category, story category and news category, the syllables, phonemes and tones are balanced;
+
+## Speaker
+50 speakers totally, with 50% male and 50% female;
+
+## Device
+microphone;
+
+## Language
+Chinese;
+
+## Annotation
+word and phoneme transcription, prosodic boundary annotation;
+
+## Application scenarios
+speech synthesis.
